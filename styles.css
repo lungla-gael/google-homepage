@@ -65,6 +65,7 @@ footer {
 }
 
 footer .nav-left {
+	padding-left: 27px;
 	margin-left: 3px;
 }
 
@@ -159,3 +160,13 @@ input {
     border-radius: 50%;
     float: right;
 }
+
+#ctry{
+	padding-left: 27px;
+	color: #5f6368;
+	bottom: 1cm;
+}
+.extra{
+	color: #5f6368;
+}
+
